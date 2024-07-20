@@ -1,9 +1,9 @@
 # python-libyear
-Simple app to demonstrate the libyear library
-
+Simple demonstration of the libyear library
 
 Usage:
 
+```bash
 09:34 $ libyear -r requirements.txt 
 +---------+-----------------+----------------+-----------------+
 | Library | Current Version | Latest Version | Libyears behind |
